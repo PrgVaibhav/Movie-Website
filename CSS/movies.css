@@ -1,0 +1,10 @@
+.work-in-progress {
+  background: linear-gradient(67deg, #435ee2, #987008);
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  color: white;
+}
